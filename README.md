@@ -18,7 +18,3 @@ Frontend developer
   <a href = "https://t.me/stFrenky" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="32" height="32" /></a>
   |
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/stFrenky"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=stFrenky&bg_color=181824&color=ffffff&line=6366f1&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
